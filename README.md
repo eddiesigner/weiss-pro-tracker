@@ -1,4 +1,4 @@
-# weiss-pro
+# Weiss Pro
 Weiss Pro Ghost theme - Docs and issues tracker
 
 To know how to enable the search, comments, members and more, please head to the [Wiki](https://github.com/eddiesigner/weiss-pro/wiki).
