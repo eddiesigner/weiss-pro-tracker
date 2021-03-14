@@ -5,7 +5,7 @@ Theme overview: https://blog.eduardogomez.io/weiss-pro-modern-and-clean-ghost-th
 
 Live demo: https://weiss-pro.eduardogomez.io/
 
-**This wiki is now deprecated, you can find the new documentation here: https://weiss-pro-docs.eduardogomez.io/**
+**ATENTION: This wiki is now deprecated, you can find the new documentation here: https://weiss-pro-docs.eduardogomez.io/**
 
 To know how to enable the search, comments, members and more, please head to the [Wiki](https://github.com/eddiesigner/weiss-pro/wiki).
 
